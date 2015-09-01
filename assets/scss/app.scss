@@ -1,0 +1,25 @@
+/* Global config */
+@import "config/colors";
+/* Site structure */
+@import "custom/site"; 
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	letter-spacing: 0.05em;
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+}
+
+.row-full {
+	min-width:100%;
+}
+
+a {
+	transition: all 0.3s ease;
+}

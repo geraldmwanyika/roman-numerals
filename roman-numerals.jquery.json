@@ -1,0 +1,26 @@
+{
+  "name": "roman-numerals",
+  "title": "Roman Numerals",
+  "description": "Coding Kata: Roman Numerals",
+  "version": "0.1.0",
+  "homepage": "https://github.com/geraldmwanyika/roman-numerals",
+  "author": {
+    "name": "geraldmwanyika",
+    "email": "gerald@mwanyika.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geraldmwanyika/roman-numerals.git"
+  },
+  "bugs": "https://github.com/geraldmwanyika/roman-numerals/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/geraldmwanyika/roman-numerals/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
